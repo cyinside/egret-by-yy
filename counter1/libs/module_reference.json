@@ -1,0 +1,1141 @@
+{
+	"referenceInfoList": {
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/i18n/cn.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Ticker.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Timer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/setTimeout.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/BitmapFont.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/HTML5DeviceContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/extends.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/i18n/cn.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/IHashObject.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/IHashObject.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Recycler.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/getTimer.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/RenderCommand.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RendererContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/player/RenderContext.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/IEventDispatcher.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Recycler.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/HTTPStatusEvent.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/IEventDispatcher.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/SoundEvent.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/FocusEvent.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/IOErrorEvent.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/IEventDispatcher.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/TouchEvent.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Point.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/IEventDispatcher.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/TimerEvent.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/IEventDispatcher.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/TextEvent.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/IEventDispatcher.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/ProgressEvent.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/IEventDispatcher.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/EventPhase.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/IEventDispatcher.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/IHashObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/EventDispatcher.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/IEventDispatcher.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Profiler.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/EventDispatcher.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RendererContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/interactive/TouchContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/net/NetContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/DeviceContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Stage.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Ticker.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/RenderCommand.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Recycler.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Profiler.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObjectContainer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextField.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Ticker.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RendererContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/getTimer.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Ticker.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/setTimeout.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/EventDispatcher.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/getTimer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/layout/HorizontalAlign.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/layout/VerticalAlign.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Timer.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/EventDispatcher.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/getTimer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Ticker.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/TimerEvent.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/getQualifiedClassName.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/getDefinitionByName.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/setTimeout.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Ticker.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/setInterval.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Ticker.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/hasDefinition.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/getDefinitionByName.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/toColorString.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Matrix.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Point.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/jslib/NumberUtils.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Point.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/jslib/NumberUtils.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Matrix.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Point.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/ColorTransform.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Transform.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Matrix.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/ColorTransform.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/SAXParser.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Browser.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RenderFilter.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Matrix.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Texture.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RendererContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObject.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Injector.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/getQualifiedClassName.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/BitmapFilterQuality.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/Filter.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/BlurFilter.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/Filter.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/ColorMatrixFilter.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/Filter.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/GlowFilter.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/Filter.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/DropShadowFilter.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/GlowFilter.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/BlendMode.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObjectProperties.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObjectContainer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Stage.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/Filter.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObjectPrivateProperties.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/RenderTexture.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObject.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObjectProperties.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObjectPrivateProperties.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Matrix.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RenderFilter.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Point.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/RenderTexture.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/EventDispatcher.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RenderFilter.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Texture.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObjectContainer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/jslib/NumberUtils.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RendererContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/ColorMatrixFilter.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/RenderCommand.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Stage.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/Filter.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Transform.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObjectContainer.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Matrix.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/RenderCommand.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RendererContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/StageScaleMode.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Stage.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/StageScaleMode.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObjectContainer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Matrix.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/ScrollViewProperties.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Point.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/TouchEvent.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/tween/Tween.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/ScrollView.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/ScrollViewProperties.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Timer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/getTimer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/tween/Tween.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/tween/Ease.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObjectContainer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/TouchEvent.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/TimerEvent.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/BitmapFillMode.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Bitmap.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RenderFilter.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Texture.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RendererContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RenderFilter.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/BitmapText.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/BitmapFont.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RendererContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RenderFilter.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/GradientType.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Graphics.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Matrix.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/player/RenderContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/GradientType.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RendererContext.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Shape.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Graphics.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RendererContext.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Sprite.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObjectContainer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Graphics.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RendererContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Matrix.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObject.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextFieldUtils.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextField.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/ITextElement.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextFieldType.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/layout/HorizontalAlign.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/layout/VerticalAlign.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/ITextElement.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/ITextElement.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/ITextElement.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextFieldProperties.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextField.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/ITextElement.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextField.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextFieldProperties.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/InputController.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextFieldType.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/ITextElement.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Graphics.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/ITextElement.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/ITextElement.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/ITextElement.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/TouchEvent.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/TextEvent.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/toColorString.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextFieldUtils.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RendererContext.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/HtmlTextParser.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/ITextElement.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/ITextElement.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextFieldType.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/SpriteSheet.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Texture.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/InputController.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/display/StageText.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/TouchEvent.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/FocusEvent.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Stage.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextField.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObject.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/BitmapFont.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/SpriteSheet.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Texture.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/MovieClip.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RenderFilter.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Texture.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/MovieClipData.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RendererContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/FrameLabel.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Ticker.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/FrameLabel.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/EventDispatcher.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/MovieClipData.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/SpriteSheet.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Texture.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/FrameLabel.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/MovieClipDataFactory.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/EventDispatcher.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/SpriteSheet.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Texture.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/MovieClipData.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/display/StageText.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextField.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/EventDispatcher.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLRequestMethod.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLLoaderDataFormat.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLVariables.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLRequestHeader.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLRequest.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLRequestMethod.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLRequestHeader.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLLoader.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/EventDispatcher.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLRequest.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLLoaderDataFormat.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Texture.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/PromiseObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Browser.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/RenderTexture.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RendererContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObjectContainer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RenderFilter.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Texture.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RendererContext.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Matrix.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/ITextElement.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextField.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Profiler.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Texture.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/Filter.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/BlendMode.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/interactive/InteractionMode.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/interactive/TouchContext.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/TouchEvent.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/net/NetContext.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLLoader.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLRequest.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLRequestMethod.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLVariables.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/DeviceContext.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/external/ExternalInterface.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Browser.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/localStorage/localStorage.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/XML.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/SAXParser.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/ByteArray.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/getOption.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/tween/Tween.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/EventDispatcher.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Ticker.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/tween/Ease.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/media/IAudio.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/media/Sound.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/EventDispatcher.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/SoundEvent.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/media/IAudio.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/jslib/NumberUtils.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Matrix.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/PromiseObject.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/net/IVersionController.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/HTML5DeviceContext.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/getTimer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/localStorage/localStorage.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/DeviceContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/HTML5CanvasRenderer.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Browser.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RendererContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/getTimer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Matrix.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/BlendMode.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/ITextElement.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextFieldProperties.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextField.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Graphics.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Texture.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RenderFilter.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Stage.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/toColorString.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/IWebGLTemplate.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/WebGLRenderer.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextField.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/RenderTexture.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/IWebGLTemplate.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RendererContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RenderFilter.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextFieldProperties.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextFieldType.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObjectContainer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Browser.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/BlendMode.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/jslib/NumberUtils.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/ITextElement.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Matrix.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Graphics.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/webgl/WebGLShaderManager.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Texture.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/HTML5CanvasRenderer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Stage.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/Filter.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/DropShadowFilter.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/getTimer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Profiler.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/webgl/shaders/ColorTransformShader.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/webgl/shaders/BlurShader.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/BlurFilter.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/ColorMatrixFilter.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/webgl/WebGLUtils.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/webgl/shaders/EgretShader.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/webgl/WebGLUtils.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/webgl/shaders/ColorTransformShader.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/webgl/shaders/EgretShader.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/webgl/shaders/BlurShader.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/webgl/shaders/EgretShader.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/webgl/shaders/PrimitiveShader.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/webgl/WebGLUtils.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/webgl/WebGLShaderManager.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/webgl/shaders/EgretShader.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/webgl/shaders/PrimitiveShader.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/webgl/shaders/ColorTransformShader.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/webgl/shaders/BlurShader.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/net/HTML5NetContext.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/net/IVersionController.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Html5Capatibility.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/setTimeout.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/setTimeout.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/net/NetContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Texture.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLLoader.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLLoaderDataFormat.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Html5Capatibility.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLRequest.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLRequestMethod.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLVariables.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/HTTPStatusEvent.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/IOErrorEvent.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/audio/Html5Audio.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/media/Sound.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/audio/QQAudio.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/audio/WebAudio.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Browser.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/interactive/HTML5TouchContext.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Browser.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/interactive/TouchContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/display/HTML5StageText.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Point.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/display/HTML5StageText.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextField.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextFieldProperties.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Browser.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/display/StageText.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Html5Capatibility.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Html5Capatibility.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextFieldUtils.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/audio/Html5Audio.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/media/IAudio.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Html5Capatibility.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/audio/WebAudio.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/media/IAudio.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/audio/QQAudio.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/media/Sound.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/media/IAudio.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/WebTexture.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Texture.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RendererContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Html5Capatibility.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/audio/Html5Audio.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/audio/QQAudio.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/audio/WebAudio.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/NativeDeviceContext.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/external/ExternalInterface.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/localStorage/localStorage.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/RenderTexture.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/NativeRendererContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/getOption.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextField.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/NativeRendererContext.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/jslib/NumberUtils.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Matrix.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/BlendMode.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/ITextElement.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextFieldProperties.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextField.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Graphics.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RendererContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Texture.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/Filter.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/DropShadowFilter.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/RenderTexture.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/net/NativeNetContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/ColorMatrixFilter.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/interactive/NativeTouchContext.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/interactive/TouchContext.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/net/NativeNetContext.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/net/IVersionController.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/PromiseObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLRequestHeader.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/IOErrorEvent.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/getDefinitionByName.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/media/Sound.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Texture.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/net/NetContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLLoader.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLLoaderDataFormat.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLRequest.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLRequestMethod.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLVariables.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/audio/NativeAudio.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/audio/NaAudio.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/display/NativeStageText.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextField.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObjectContainer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Shape.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/layout/HorizontalAlign.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Stage.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/display/StageText.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/net/NativeResourceLoader.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/EventDispatcher.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/PromiseObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/ProgressEvent.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/IOErrorEvent.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/audio/NativeAudio.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/media/Sound.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/net/NativeNetContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/PromiseObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/media/IAudio.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/audio/NaAudio.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/media/IAudio.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/NativeTexture.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Texture.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/NativeRendererContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/BlendMode.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Matrix.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/version/DefaultLoadingView.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextField.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObjectContainer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/version/ILoadingView.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/version/ILoadingView.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/version/Html5VersionController.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/EventDispatcher.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/net/IVersionController.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/version/NativeVersionController.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/EventDispatcher.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/version/ILoadingView.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/net/IVersionController.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/PromiseObject.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/events/ResourceEvent.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/IEventDispatcher.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/core/ResourceItem.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/core/ResourceItem.ts": [],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/core/ResourceConfig.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/core/ResourceItem.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/core/ResourceLoader.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/EventDispatcher.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Injector.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/core/ResourceItem.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/events/ResourceEvent.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/AnalyzerBase.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/AnalyzerBase.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/core/ResourceConfig.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/core/ResourceItem.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/BinAnalyzer.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLLoader.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLRequest.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLLoaderDataFormat.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Recycler.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/IOErrorEvent.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/AnalyzerBase.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/core/ResourceItem.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/ImageAnalyzer.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLLoaderDataFormat.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/BinAnalyzer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/core/ResourceItem.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/JsonAnalyzer.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLLoaderDataFormat.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/BinAnalyzer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/core/ResourceItem.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/TextAnalyzer.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLLoaderDataFormat.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/BinAnalyzer.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/SheetAnalyzer.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLLoaderDataFormat.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/AnalyzerBase.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/SpriteSheet.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLLoader.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Texture.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/BinAnalyzer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/core/ResourceItem.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/FontAnalyzer.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Texture.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/BitmapFont.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/SheetAnalyzer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/core/ResourceItem.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/SoundAnalyzer.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLLoaderDataFormat.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/media/Sound.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/BinAnalyzer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/core/ResourceItem.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/XMLAnalyzer.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLLoaderDataFormat.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/XML.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/BinAnalyzer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/core/ResourceItem.ts"
+		],
+		"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts": [
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/EventDispatcher.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Injector.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/AnalyzerBase.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/core/ResourceItem.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/core/ResourceLoader.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/BinAnalyzer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/ImageAnalyzer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/TextAnalyzer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/JsonAnalyzer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/SheetAnalyzer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/FontAnalyzer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/SoundAnalyzer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/XMLAnalyzer.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/core/ResourceConfig.ts",
+			"/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/events/ResourceEvent.ts"
+		]
+	},
+	"classNameToPath": {
+		"egret.egret_string_code": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/i18n/cn.ts",
+		"__extends": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/extends.ts",
+		"egret.superSetter": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/extends.ts",
+		"egret.superGetter": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/extends.ts",
+		"egret.Logger": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts",
+		"egret.getString": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts",
+		"egret.$error": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts",
+		"egret.$warn": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Logger.ts",
+		"egret.IHashObject": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/IHashObject.ts",
+		"egret.HashObject": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/HashObject.ts",
+		"egret.Recycler": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Recycler.ts",
+		"egret.__START_TIME": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/getTimer.ts",
+		"egret.getTimer": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/getTimer.ts",
+		"egret.__callLaterFunctionList": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+		"egret.__callLaterThisList": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+		"egret.__callLaterArgsList": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+		"egret.callLater": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+		"egret.__callAsyncFunctionList": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+		"egret.__callAsyncThisList": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+		"egret.__callAsyncArgsList": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+		"egret.__callAsync": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/callLater.ts",
+		"egret.RenderCommand": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/RenderCommand.ts",
+		"egret.RenderContext": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/player/RenderContext.ts",
+		"egret.Event": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/Event.ts",
+		"egret.HTTPStatusEvent": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/HTTPStatusEvent.ts",
+		"egret.SoundEvent": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/SoundEvent.ts",
+		"egret.FocusEvent": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/FocusEvent.ts",
+		"egret.IOErrorEvent": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/IOErrorEvent.ts",
+		"egret.TouchEvent": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/TouchEvent.ts",
+		"egret.TimerEvent": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/TimerEvent.ts",
+		"egret.TextEvent": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/TextEvent.ts",
+		"egret.ProgressEvent": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/ProgressEvent.ts",
+		"egret.EventPhase": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/EventPhase.ts",
+		"egret.IEventDispatcher": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/IEventDispatcher.ts",
+		"egret.EventDispatcher": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/events/EventDispatcher.ts",
+		"egret.MainContext": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+		"testDeviceType": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+		"testRuntimeType": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/MainContext.ts",
+		"egret.Profiler": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Profiler.ts",
+		"egret.Ticker": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Ticker.ts",
+		"egret.HorizontalAlign": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/layout/HorizontalAlign.ts",
+		"egret.VerticalAlign": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/layout/VerticalAlign.ts",
+		"egret.Timer": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Timer.ts",
+		"egret.getQualifiedClassName": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/getQualifiedClassName.ts",
+		"egret.getQualifiedSuperclassName": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/getQualifiedClassName.ts",
+		"egret.getDefinitionByName": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/getDefinitionByName.ts",
+		"__global": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/getDefinitionByName.ts",
+		"egret.setTimeout": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/setTimeout.ts",
+		"egret.clearTimeout": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/setTimeout.ts",
+		"egret.setInterval": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/setInterval.ts",
+		"egret.clearInterval": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/setInterval.ts",
+		"egret.hasDefinition": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/hasDefinition.ts",
+		"egret.toColorString": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/toColorString.ts",
+		"egret.Matrix": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Matrix.ts",
+		"egret.Point": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Point.ts",
+		"egret.Rectangle": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Rectangle.ts",
+		"egret.ColorTransform": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/ColorTransform.ts",
+		"egret.Transform": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/geom/Transform.ts",
+		"egret.SAXParser": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/SAXParser.ts",
+		"egret.StageDelegate": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+		"egret.ResolutionPolicy": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+		"egret.ContainerStrategy": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+		"egret.EqualToFrame": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+		"egret.ContentStrategy": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+		"egret.FixedHeight": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+		"egret.FixedWidth": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+		"egret.FixedSize": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+		"egret.NoScale": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+		"egret.ShowAll": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+		"egret.FullScreen": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/StageDelegate.ts",
+		"egret.RenderFilter": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RenderFilter.ts",
+		"egret.RenderData": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RenderFilter.ts",
+		"egret.Injector": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/Injector.ts",
+		"egret.Filter": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/Filter.ts",
+		"egret.BlurFilter": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/BlurFilter.ts",
+		"egret.ColorMatrixFilter": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/ColorMatrixFilter.ts",
+		"egret.GlowFilter": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/GlowFilter.ts",
+		"egret.DropShadowFilter": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/filters/DropShadowFilter.ts",
+		"egret.BlendMode": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/BlendMode.ts",
+		"egret.DisplayObjectProperties": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObjectProperties.ts",
+		"egret.DisplayObjectPrivateProperties": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObjectPrivateProperties.ts",
+		"egret.DisplayObject": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObject.ts",
+		"egret.DisplayObjectContainer": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/DisplayObjectContainer.ts",
+		"egret.StageScaleMode": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/StageScaleMode.ts",
+		"egret.Stage": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Stage.ts",
+		"egret.ScrollViewProperties": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/ScrollViewProperties.ts",
+		"egret.ScrollView": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/ScrollView.ts",
+		"egret.BitmapFillMode": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/BitmapFillMode.ts",
+		"egret.Bitmap": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Bitmap.ts",
+		"egret.BitmapText": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/BitmapText.ts",
+		"egret.GradientType": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/GradientType.ts",
+		"egret.Graphics": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Graphics.ts",
+		"egret.Command": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Graphics.ts",
+		"egret.Shape": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Shape.ts",
+		"egret.Sprite": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Sprite.ts",
+		"egret.TextFieldUtils": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextFieldUtils.ts",
+		"egret.TextFieldProperties": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextFieldProperties.ts",
+		"egret.IHitTextElement": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/ITextElement.ts",
+		"egret.ITextStyle": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/ITextElement.ts",
+		"egret.ITextElement": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/ITextElement.ts",
+		"egret.IWTextElement": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/ITextElement.ts",
+		"egret.ILineElement": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/ITextElement.ts",
+		"egret.TextField": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextField.ts",
+		"egret.HtmlTextParser": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/HtmlTextParser.ts",
+		"egret.TextFieldType": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/TextFieldType.ts",
+		"egret.SpriteSheet": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/SpriteSheet.ts",
+		"egret.InputController": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/InputController.ts",
+		"egret.BitmapFont": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/text/BitmapFont.ts",
+		"egret.MovieClip": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/MovieClip.ts",
+		"egret.FrameLabel": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/FrameLabel.ts",
+		"egret.MovieClipData": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/MovieClipData.ts",
+		"egret.MovieClipDataFactory": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/MovieClipDataFactory.ts",
+		"egret.StageText": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/display/StageText.ts",
+		"egret.URLRequestMethod": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLRequestMethod.ts",
+		"egret.URLLoaderDataFormat": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLLoaderDataFormat.ts",
+		"egret.URLVariables": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLVariables.ts",
+		"egret.URLRequestHeader": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLRequestHeader.ts",
+		"egret.URLRequest": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLRequest.ts",
+		"egret.URLLoader": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/net/URLLoader.ts",
+		"egret.Texture": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/Texture.ts",
+		"egret.RenderTexture": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/display/RenderTexture.ts",
+		"egret.RendererContext": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/RendererContext.ts",
+		"egret.InteractionMode": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/interactive/InteractionMode.ts",
+		"egret.TouchContext": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/interactive/TouchContext.ts",
+		"egret.NetContext": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/net/NetContext.ts",
+		"egret.DeviceContext": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/DeviceContext.ts",
+		"egret.ExternalInterface": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/external/ExternalInterface.ts",
+		"egret.Browser": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Browser.ts",
+		"egret.localStorage": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/localStorage/localStorage.ts",
+		"egret.XML": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/XML.ts",
+		"egret.Endian": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/ByteArray.ts",
+		"egret.ByteArray": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/ByteArray.ts",
+		"egret.getOption": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/utils/getOption.ts",
+		"egret.Tween": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/tween/Tween.ts",
+		"egret.Ease": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/tween/Ease.ts",
+		"egret.IAudio": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/media/IAudio.ts",
+		"egret.Sound": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/media/Sound.ts",
+		"egret.NumberUtils": "/Users/cyy/cyycode/egret-core-2.0.5/src/jslib/NumberUtils.ts",
+		"egret_sin_map": "/Users/cyy/cyycode/egret-core-2.0.5/src/jslib/NumberUtils.ts",
+		"egret_cos_map": "/Users/cyy/cyycode/egret-core-2.0.5/src/jslib/NumberUtils.ts",
+		"NumberUtils_i": "/Users/cyy/cyycode/egret-core-2.0.5/src/jslib/NumberUtils.ts",
+		"egret.PromiseObject": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/PromiseObject.ts",
+		"egret.IVersionController": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/net/IVersionController.ts",
+		"egret.HTML5DeviceContext": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/HTML5DeviceContext.ts",
+		"egret_html5_localStorage.getItem": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/HTML5DeviceContext.ts",
+		"egret_html5_localStorage.setItem": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/HTML5DeviceContext.ts",
+		"egret_html5_localStorage.removeItem": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/HTML5DeviceContext.ts",
+		"egret_html5_localStorage.clear": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/HTML5DeviceContext.ts",
+		"egret_html5_localStorage.init": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/HTML5DeviceContext.ts",
+		"egret.HTML5CanvasRenderer": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/HTML5CanvasRenderer.ts",
+		"originCanvas2DFill": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/HTML5CanvasRenderer.ts",
+		"egret.IWebGLTemplate": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/IWebGLTemplate.ts",
+		"egret.WebGLRenderer": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.beginFill": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.beginGradientFill": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.drawRect": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.drawCircle": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.drawRoundRect": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.drawEllipse": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.lineStyle": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.lineTo": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.curveTo": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.cubicCurveTo": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.moveTo": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.clear": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.endFill": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics._pushCommand": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics._draw": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.Command": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics._setStyle": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.init": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret.WebGLUtils": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/webgl/WebGLUtils.ts",
+		"egret.EgretShader": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/webgl/shaders/EgretShader.ts",
+		"egret.ColorTransformShader": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/webgl/shaders/ColorTransformShader.ts",
+		"egret.BlurShader": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/webgl/shaders/BlurShader.ts",
+		"egret.PrimitiveShader": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/webgl/shaders/PrimitiveShader.ts",
+		"egret.WebGLShaderManager": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/webgl/WebGLShaderManager.ts",
+		"egret.HTML5NetContext": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/net/HTML5NetContext.ts",
+		"egret.HTML5TouchContext": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/interactive/HTML5TouchContext.ts",
+		"egret.HTML5StageText": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/display/HTML5StageText.ts",
+		"egret.HTMLInput": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/display/HTML5StageText.ts",
+		"egret.Html5Audio": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/audio/Html5Audio.ts",
+		"egret.WebAudio": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/audio/WebAudio.ts",
+		"AudioBuffer": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/audio/WebAudio.ts",
+		"AudioBufferSourceNodeEgret": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/audio/WebAudio.ts",
+		"egret.QQAudio": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/audio/QQAudio.ts",
+		"egret.AudioType": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Html5Capatibility.ts",
+		"egret.SystemOSType": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Html5Capatibility.ts",
+		"egret.Html5Capatibility": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/Html5Capatibility.ts",
+		"egret.NativeDeviceContext": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret_native_external_interface.callBackDic": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret_native_external_interface.call": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret_native_external_interface.addCallback": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret_native_external_interface.onReceivedPluginInfo": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret_native_external_interface.init": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret_native_localStorage.filePath": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret_native_localStorage.getItem": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret_native_localStorage.setItem": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret_native_localStorage.removeItem": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret_native_localStorage.clear": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret_native_localStorage.save": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret_native_localStorage.init": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret.NativeRendererContext": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/NativeRendererContext.ts",
+		"egret_native_graphics": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/renderer/NativeRendererContext.ts",
+		"egret.NativeTouchContext": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/interactive/NativeTouchContext.ts",
+		"egret_native.onTouchesBegin": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/interactive/NativeTouchContext.ts",
+		"egret_native.onTouchesMove": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/interactive/NativeTouchContext.ts",
+		"egret_native.onTouchesEnd": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/interactive/NativeTouchContext.ts",
+		"egret_native.onTouchesCancel": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/interactive/NativeTouchContext.ts",
+		"egret_native.executeTouchCallback": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/interactive/NativeTouchContext.ts",
+		"egret.NativeNetContext": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/net/NativeNetContext.ts",
+		"egret.NativeStageText": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/display/NativeStageText.ts",
+		"egret.NativeResourceLoader": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/net/NativeResourceLoader.ts",
+		"egret.NativeAudio": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/audio/NativeAudio.ts",
+		"egret_native_sound.currentPath": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/audio/NativeAudio.ts",
+		"egret.NaAudio": "/Users/cyy/cyycode/egret-core-2.0.5/src/egret/context/audio/NaAudio.ts",
+		"egret.DefaultLoadingView": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/version/DefaultLoadingView.ts",
+		"egret.ILoadingView": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/version/ILoadingView.ts",
+		"egret.Html5VersionController": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/version/Html5VersionController.ts",
+		"egret.NativeVersionController": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/version/NativeVersionController.ts",
+		"RES.ResourceEvent": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/events/ResourceEvent.ts",
+		"RES.ResourceItem": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/core/ResourceItem.ts",
+		"RES.ResourceConfig": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/core/ResourceConfig.ts",
+		"RES.ResourceLoader": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/core/ResourceLoader.ts",
+		"RES.AnalyzerBase": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/AnalyzerBase.ts",
+		"RES.BinAnalyzer": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/BinAnalyzer.ts",
+		"RES.ImageAnalyzer": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/ImageAnalyzer.ts",
+		"RES.JsonAnalyzer": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/JsonAnalyzer.ts",
+		"RES.TextAnalyzer": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/TextAnalyzer.ts",
+		"RES.SheetAnalyzer": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/SheetAnalyzer.ts",
+		"RES.FontAnalyzer": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/FontAnalyzer.ts",
+		"RES.SoundAnalyzer": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/SoundAnalyzer.ts",
+		"RES.XMLAnalyzer": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/analyzer/XMLAnalyzer.ts",
+		"RES.loadConfig": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts",
+		"RES.loadGroup": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts",
+		"RES.isGroupLoaded": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts",
+		"RES.getGroupByName": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts",
+		"RES.createGroup": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts",
+		"RES.hasRes": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts",
+		"RES.parseConfig": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts",
+		"RES.getRes": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts",
+		"RES.getResAsync": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts",
+		"RES.getResByUrl": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts",
+		"RES.destroyRes": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts",
+		"RES.setMaxLoadingThread": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts",
+		"RES.setMaxRetryTimes": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts",
+		"RES.addEventListener": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts",
+		"RES.removeEventListener": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts",
+		"RES.Resource": "/Users/cyy/cyycode/egret-core-2.0.5/src/extension/resource/Resource.ts"
+	}
+}

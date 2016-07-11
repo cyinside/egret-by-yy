@@ -1,0 +1,15 @@
+[
+	"display/DisplayScene.ts",
+	"model/info/Btninfo.ts",
+	"model/info/ScoreInfo.ts",
+	"display/StageUtil.ts",
+	"model/ConfigModel.ts",
+	"DataEvent.ts",
+	"JSSDK.ts",
+	"display/BitmapDisplay.ts",
+	"LoadingUI.ts",
+	"Sence1.ts",
+	"Sence2.ts",
+	"Sence3.ts",
+	"Main.ts"
+]

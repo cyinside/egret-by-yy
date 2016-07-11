@@ -1,0 +1,37 @@
+{
+  "countbtn": [
+    {"id":1, "type":"包包", "value":40000,"img":"resource/assets/sence3/1.png"},
+    {"id":2, "type":"香水", "value":5000,"img":"resource/assets/sence3/2.png"},
+    {"id":3, "type":"唇膏", "value":2000,"img":"resource/assets/sence3/3.png"},
+    {"id":4, "type":"化妆品", "value":5000,"img":"resource/assets/sence3/4.png"},
+    {"id":5, "type":"鞋子", "value":8000,"img":"resource/assets/sence3/5.png"},
+    {"id":6, "type":"首饰", "value":20000,"img":"resource/assets/sence3/6.png"},
+    {"id":7, "type":"美发", "value":10000,"img":"resource/assets/sence3/7.png"},
+    {"id":8, "type":"钻石", "value":50000,"img":"resource/assets/sence3/8.png"},
+    {"id":9, "type":"护肤品", "value":10000,"img":"resource/assets/sence3/9.png"},
+    {"id":10, "type":"鲜花", "value":2000,"img":"resource/assets/sence3/10.png"},
+    {"id":11, "type":"惊喜", "value":10000,"img":"resource/assets/sence3/11.png"},
+    {"id":12, "type":"旅游", "value":18000,"img":"resource/assets/sence3/12.png"}
+  ],
+
+  "level":[
+    {"id":1,"score":0,"title":"抠抠更幸福型老公",
+      "text":"男神数我最抠门，老婆购物车再满，不及我的满，老婆请帮我买单！"},
+    {"id":2,"score":20,"title":"省省更经济型老公",
+      "text":"我是经济型老公，老婆要钱财，我有口才，让她不买就不买！"},
+    {"id":3,"score":40,"title":"24孝真爱老公",
+      "text":"我是24孝老公，咸鱼白菜也情愿，双十一就是不能输！"},
+    {"id":4,"score":80,"title":"甩钱土豪级老公",
+      "text":"我是土豪级老公，老婆金山银山随便搬，倾家荡产又何妨"}
+  ],
+
+  "rule_name":"游戏规则",
+  "rule":"手机左右倾斜控制嫦娥的移动方向，\n接住萌宠小黄鸭\n移动过程中注意避开炸弹和小石头\n接得越多嫦娥越开心哦~",
+  "wx_default_title":"剁手计算器",
+  "wx_title":"剁手计算器",
+  "wx_friend_desx":"双十一老婆节，猜猜你要为亲爱的老婆大人花多少钱？赶紧算算",
+  "wx_default_friend_desx":"双十一老婆节，猜猜你要为亲爱的老婆大人花多少钱？赶紧算算",
+  "wx_share":"点击右上角   邀请朋友一起来玩",
+  "wx_share_link":"http://www.joyoungfeld-ad.com/zhaoyang/app/counter1/10/index.html",
+  "wx_share_img":"http://www.joyoungfeld-ad.com/zhaoyang/app/counter1/10/resource/assets/share.jpg"
+}

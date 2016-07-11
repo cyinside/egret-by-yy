@@ -1,0 +1,155 @@
+{
+	"resources": [
+		{
+			"name": "bg1",
+			"type": "image",
+			"url": "assets/sence1/bg1.jpg"
+		},
+		{
+			"name": "bg2",
+			"type": "image",
+			"url": "assets/sence2/bg2.jpg"
+		},
+		{
+			"name": "bg3",
+			"type": "image",
+			"url": "assets/sence3/bg3.jpg"
+		},
+		{
+			"name": "b1",
+			"type": "image",
+			"url": "assets/sence2/1.png"
+		},
+		{
+			"name": "b2",
+			"type": "image",
+			"url": "assets/sence2/2.png"
+		},
+		{
+			"name": "b3",
+			"type": "image",
+			"url": "assets/sence2/3.png"
+		},
+		{
+			"name": "b4",
+			"type": "image",
+			"url": "assets/sence2/4.png"
+		},
+		{
+			"name": "b5",
+			"type": "image",
+			"url": "assets/sence2/5.png"
+		},
+		{
+			"name": "b7",
+			"type": "image",
+			"url": "assets/sence2/7.png"
+		},
+		{
+			"name": "b6",
+			"type": "image",
+			"url": "assets/sence2/6.png"
+		},
+		{
+			"name": "b8",
+			"type": "image",
+			"url": "assets/sence2/8.png"
+		},
+		{
+			"name": "b9",
+			"type": "image",
+			"url": "assets/sence2/9.png"
+		},
+		{
+			"name": "b10",
+			"type": "image",
+			"url": "assets/sence2/10.png"
+		},
+		{
+			"name": "b11",
+			"type": "image",
+			"url": "assets/sence2/11.png"
+		},
+		{
+			"name": "b12",
+			"type": "image",
+			"url": "assets/sence2/12.png"
+		},
+		{
+			"name": "b13",
+			"type": "image",
+			"url": "assets/sence2/13.png"
+		},
+		{
+			"name": "b14",
+			"type": "image",
+			"url": "assets/sence2/14.png"
+		},
+		{
+			"name": "b15",
+			"type": "image",
+			"url": "assets/sence2/15.png"
+		},
+		{
+			"name": "txt1",
+			"type": "image",
+			"url": "assets/sence1/txt1.png"
+		},
+		{
+			"name": "txt2",
+			"type": "image",
+			"url": "assets/sence1/txt2.png"
+		},
+		{
+			"name": "pb",
+			"type": "image",
+			"url": "assets/sence3/pb.png"
+		},
+		{
+			"name": "pf",
+			"type": "image",
+			"url": "assets/sence3/pf.png"
+		},
+		{
+			"name": "pbg",
+			"type": "image",
+			"url": "assets/sence3/pbg.png"
+		},
+		{
+			"name": "icon",
+			"type": "image",
+			"url": "assets/sence3/1.png"
+		},
+		{
+			"name": "but1",
+			"type": "image",
+			"url": "assets/sence3/but1.png"
+		},
+		{
+			"name": "but2",
+			"type": "image",
+			"url": "assets/sence3/but2.png"
+		},
+		{
+			"name": "bg4",
+			"type": "image",
+			"url": "assets/sence3/bg4.jpg"
+		},
+		{
+			"name": "description",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "config",
+			"type": "json",
+			"url": "config/config.json"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "bg1,bg2,bg3,bg4,txt1,txt2,config,b1,b2,b3,b4,b5,b6,b7,b8,b9,b10,b11,b12,b13,b14,b15,pb,pf,pbg,icon,but1,but2"
+		}
+	]
+}
