@@ -1,0 +1,140 @@
+{
+	"resources": [
+		{
+			"name": "bg1",
+			"type": "image",
+			"url": "assets/bg1.jpg"
+		},
+		{
+			"name": "mask1",
+			"type": "image",
+			"url": "assets/mask1.png"
+		},
+		{
+			"name": "inputBut",
+			"type": "image",
+			"url": "assets/inputBut.png"
+		},
+		{
+			"name": "startbut",
+			"type": "image",
+			"url": "assets/startbut.png"
+		},
+		{
+			"name": "startbut1",
+			"type": "image",
+			"url": "assets/startbut1.png"
+		},
+		{
+			"name": "retryBut",
+			"type": "image",
+			"url": "assets/retryBut.png"
+		},
+		{
+			"name": "inputBg",
+			"type": "image",
+			"url": "assets/inputBg.jpg"
+		},
+		{
+			"name": "selectBg",
+			"type": "image",
+			"url": "assets/selectpage/selectBg1.jpg"
+		},
+		{
+			"name": "but1",
+			"type": "image",
+			"url": "assets/selectpage/but1.png"
+		},
+		{
+			"name": "but2",
+			"type": "image",
+			"url": "assets/selectpage/but2.png"
+		},
+		{
+			"name": "but3",
+			"type": "image",
+			"url": "assets/selectpage/but3.png"
+		},
+		{
+			"name": "but4",
+			"type": "image",
+			"url": "assets/selectpage/but4.png"
+		},
+		{
+			"name": "but5",
+			"type": "image",
+			"url": "assets/selectpage/but5.png"
+		},
+		{
+			"name": "but6",
+			"type": "image",
+			"url": "assets/selectpage/but6.png"
+		},
+		{
+			"name": "but7",
+			"type": "image",
+			"url": "assets/selectpage/but7.png"
+		},
+		{
+			"name": "but8",
+			"type": "image",
+			"url": "assets/selectpage/but8.png"
+		},
+		{
+			"name": "but9",
+			"type": "image",
+			"url": "assets/selectpage/but9.png"
+		},
+		{
+			"name": "but10",
+			"type": "image",
+			"url": "assets/selectpage/but10.png"
+		},
+		{
+			"name": "but11",
+			"type": "image",
+			"url": "assets/selectpage/but11.png"
+		},
+		{
+			"name": "but12",
+			"type": "image",
+			"url": "assets/selectpage/but12.png"
+		},
+		{
+			"name": "but13",
+			"type": "image",
+			"url": "assets/selectpage/but13.png"
+		},
+		{
+			"name": "but14",
+			"type": "image",
+			"url": "assets/selectpage/but14.png"
+		},
+		{
+			"name": "inputBg",
+			"type": "image",
+			"url": "assets/selectpage/inputBg.jpg"
+		},
+		{
+			"name": "inputBut",
+			"type": "image",
+			"url": "assets/selectpage/inputBut.png"
+		},
+		{
+			"name": "description",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "config",
+			"type": "json",
+			"url": "config/config.json"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "bg1,egretIcon,inputBut,inputBg,mask1,config,inputBg,inputBut,startbut,selectBg,but1,but2,but3,but4,but5,but6,but7,but8,but9,but10,but11,but12,but13,but14,retryBut,startbut1"
+		}
+	]
+}

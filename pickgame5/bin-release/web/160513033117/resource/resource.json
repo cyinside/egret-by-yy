@@ -1,0 +1,130 @@
+{
+	"resources": [
+	  {
+		"name": "role_png",
+		"type": "image",
+		"url": "assets/role.png"
+	  },
+	  {
+		"name": "role_json",
+		"type": "json",
+		"url": "config/role.json"
+	  },
+	  {
+		"name": "config",
+		"type": "json",
+		"url": "config/config.json"
+	  },
+	  {
+		"name": "blow_up_json",
+		"type": "json",
+		"url": "config/blow_up.json"
+	  },
+	  {
+		"name": "blow_up_png",
+		"type": "image",
+		"url": "assets/blow_up.png"
+	  },
+	  {
+		"name": "bg1",
+		"type": "image",
+		"url": "assets/bg1.jpg"
+	  },
+	  {
+		"name": "bg2",
+		"type": "image",
+		"url": "assets/bg2.jpg"
+	  },
+	  {
+		"name": "bg3",
+		"type": "image",
+		"url": "assets/bg3.jpg"
+	  },
+	  {
+		"name": "bg4",
+		"type": "image",
+		"url": "assets/bg4.jpg"
+	  },
+	  {
+		"name": "bg5",
+		"type": "image",
+		"url": "assets/bg5.jpg"
+	  },
+	  {
+		"name": "start",
+		"type": "image",
+		"url": "assets/btn/start.png"
+	  },
+	  {
+		"name": "replay",
+		"type": "image",
+		"url": "assets/btn/replay.png"
+	  },
+	  {
+		"name": "infoBut",
+		"type": "image",
+		"url": "assets/btn/infobut.png"
+	  },
+	  {
+		"name": "share",
+		"type": "image",
+		"url": "assets/btn/share.png"
+	  },
+	  {
+		"name": "share_arrow",
+		"type": "image",
+		"url": "assets/share_arrow.png"
+	  },
+	  {
+		"name":"coin_1",
+		"type":"image",
+		"url":"assets/coin/coin_1.png"
+	  },
+	  {
+		"name":"coin_2",
+		"type":"image",
+		"url":"assets/coin/coin_2.png"
+	  },
+	  {
+		"name":"coin_3",
+		"type":"image",
+		"url":"assets/coin/coin_3.png"
+	  },
+	  {
+		"name":"coin_4",
+		"type":"image",
+		"url":"assets/coin/coin_4.png"
+	  },
+	  {
+		"name":"coin_5",
+		"type":"image",
+		"url":"assets/coin/coin_5.png"
+	  },
+	  {
+		"name":"coin_6",
+		"type":"image",
+		"url":"assets/coin/coin_6.png"
+	  },
+	  {
+		"name": "pm25",
+		"type": "image",
+		"url": "assets/enemy/pm25.png"
+	  },
+	  {
+		"name": "bomb",
+		"type": "image",
+		"url": "assets/enemy/bomb.png"
+	  },
+	  {
+		"name": "mist",
+		"type": "image",
+		"url": "assets/mist.png"
+	  }
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "role_png,role_json,blow_up_png,blow_up_json,config,bg1,bg2,bg3,start,replay,share_arrow,share,coin_1,coin_2,coin_3,coin_4,coin_5,coin_6,pm25,bomb,mist,bg4,bg5,infoBut"
+		}
+	]
+}

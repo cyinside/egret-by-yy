@@ -1,0 +1,16 @@
+{
+  "desx":[
+    {"id":1,"text":"环游世界"},
+    {"id":2,"text":"不用加班"},
+    {"id":3,"text":"睡到自然醒"},
+    {"id":4,"text":"多吃不胖"},
+    {"id":5,"text":"周末认真发呆"},
+    {"id":6,"text":"七十二变"}
+  ],
+  "wx_default_title":"保利首届生活方式展邀请函",
+  "wx_title":"保利首届生活方式展邀请函",
+  "wx_friend_desx":" ",
+  "wx_default_friend_desx":" ",
+  "wx_share":"点击右上角  邀请朋友一起来玩",
+  "wx_share_img":"resource/assets/shareIcon.jpg"
+}

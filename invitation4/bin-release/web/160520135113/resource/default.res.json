@@ -1,0 +1,80 @@
+{
+	"resources": [
+		{
+			"name": "bg1",
+			"type": "image",
+			"url": "assets/bg1.jpg"
+		},
+		{
+			"name": "p1",
+			"type": "image",
+			"url": "assets/page/p1.jpg"
+		},
+		{
+			"name": "p2",
+			"type": "image",
+			"url": "assets/page/p2.jpg"
+		},
+		{
+			"name": "p3",
+			"type": "image",
+			"url": "assets/page/p3.jpg"
+		},
+		{
+			"name": "p4",
+			"type": "image",
+			"url": "assets/page/p4.jpg"
+		},
+		{
+			"name": "p5",
+			"type": "image",
+			"url": "assets/page/p5.jpg"
+		},
+		{
+			"name": "forward",
+			"type": "image",
+			"url": "assets/forward.png"
+		},
+		{
+			"name": "mask",
+			"type": "image",
+			"url": "assets/mask.png"
+		},
+		{
+			"name": "wicon",
+			"type": "image",
+			"url": "assets/wicon.png"
+		},
+		{
+			"name": "bicon",
+			"type": "image",
+			"url": "assets/bicon.png"
+		},
+		{
+			"name": "shareBut",
+			"type": "image",
+			"url": "assets/shareBut.png"
+		},
+		{
+			"name": "shareinfo",
+			"type": "image",
+			"url": "assets/shareinfo.png"
+		},
+		{
+			"name": "description",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "config",
+			"type": "json",
+			"url": "config/config.json"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "bg1,p1,p2,p3,p4,p5,forward,config,mask,wicon,bicon,shareBut,shareinfo"
+		}
+	]
+}

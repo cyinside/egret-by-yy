@@ -1,0 +1,30 @@
+{
+  "chapter_1":
+  [
+    {"width":50,"x":257,"height":50,"y":153}
+  ],
+  "chapter_2":
+  [
+    {"width":50,"x":7,"height":50,"y":213},{"width":50,"x":200,"height":50,"y":35}
+  ],
+  "chapter_3":
+  [
+    {"width":50,"x":113,"height":50,"y":98},{"width":50,"x":340,"height":50,"y":119},{"width":50,"x":148,"height":50,"y":11}
+  ],
+  "chapter_4":
+  [
+    {"width":50,"x":141,"height":50,"y":73},{"width":50,"x":117,"height":50,"y":167},{"width":50,"x":318,"height":50,"y":135},{"width":50,"x":416,"height":50,"y":175}
+  ],
+  "chapter_5":
+  [
+    {"width":50,"x":269,"height":50,"y":114},{"width":50,"x":320,"height":50,"y":99},{"width":50,"x":369,"height":50,"y":215},{"width":50,"x":36,"height":50,"y":184},{"width":50,"x":71,"height":50,"y":81}
+  ],
+
+  "wx_default_title":"找茬",
+  "wx_title":"找茬",
+  "wx_friend_desx":"",
+  "wx_default_friend_desx":"",
+  "wx_share":"点击右上角  邀请朋友一起来玩",
+  "wx_share_img":"resource/assets/shareIcon.jpg"
+
+}

@@ -1,0 +1,130 @@
+{
+	"resources": [
+		{
+			"name": "description",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "config",
+			"type": "json",
+			"url": "config/config.json"
+		},
+	  {
+		"name": "but1",
+		"type": "image",
+		"url": "assets/selectpage/but1.png"
+	  },
+	  {
+		"name": "but2",
+		"type": "image",
+		"url": "assets/selectpage/but2.png"
+	  },
+	  {
+		"name": "but3",
+		"type": "image",
+		"url": "assets/selectpage/but3.png"
+	  },
+	  {
+		"name": "but4",
+		"type": "image",
+		"url": "assets/selectpage/but4.png"
+	  },
+	  {
+		"name": "but5",
+		"type": "image",
+		"url": "assets/selectpage/but5.png"
+	  },
+	  {
+		"name": "but6",
+		"type": "image",
+		"url": "assets/selectpage/but6.png"
+	  },
+	  {
+		"name": "but7",
+		"type": "image",
+		"url": "assets/selectpage/but7.png"
+	  },
+	  {
+		"name": "nike",
+		"type": "image",
+		"url": "assets/selectpage/nike.png"
+	  },
+	  {
+		"name": "bg3",
+		"type": "image",
+		"url": "assets/bg3.jpg"
+	  },
+	  {
+		"name": "showBg",
+		"type": "image",
+		"url": "assets/showBg1.jpg"
+	  },
+	  {
+		"name": "infoPage",
+		"type": "image",
+		"url": "assets/infoPage.jpg"
+	  },
+	  {
+		"name": "gpsBut",
+		"type": "image",
+		"url": "assets/gpsBut.png"
+	  },
+	  {
+		"name": "infoBut",
+		"type": "image",
+		"url": "assets/infoBut.png"
+	  },
+	  {
+		"name": "startBut",
+		"type": "image",
+		"url": "assets/startBut.png"
+	  },
+	  {
+		"name": "forward",
+		"type": "image",
+		"url": "assets/forward.png"
+	  },
+	  {
+		"name": "remove",
+		"type": "image",
+		"url": "assets/remove.png"
+	  },
+	  {
+		"name": "selectBg",
+		"type": "image",
+		"url": "assets/selectpage/selectbg.jpg"
+	  },
+	  {
+			"name": "p1",
+			"type": "image",
+			"url": "assets/p1.jpg"
+		},
+		{
+			"name": "p2",
+			"type": "image",
+			"url": "assets/p2.jpg"
+		},
+		{
+			"name": "p3",
+			"type": "image",
+			"url": "assets/p3.jpg"
+		},
+		{
+			"name": "p4",
+			"type": "image",
+			"url": "assets/p4.jpg"
+		},
+	  {
+		"name": "mask1",
+		"type": "image",
+		"url": "assets/mask1.png"
+	  }
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "bg1,p1,p2,p3,p4,p5,p6,,but1,but2,but3,but4,but5,but6,but7,selectBg,config,mask1,bg3,nike,showBg,startBut,forward,infoBut,infoPage,remove,gpsBut"
+		}
+	]
+}

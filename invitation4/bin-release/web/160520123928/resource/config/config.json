@@ -1,0 +1,24 @@
+{
+  "type":[
+    {"id":1,"text":"媒体人"},
+    {"id":2,"text":"保利人"},
+    {"id":3,"text":"同行精英"},
+    {"id":4,"text":"金牌销售"},
+    {"id":5,"text":"代理同仁"},
+    {"id":6,"text":"建筑师"},
+    {"id":7,"text":"合作伙伴"},
+    {"id":8,"text":"广告人"},
+    {"id":9,"text":"设计师"},
+    {"id":10,"text":"生活导师"},
+    {"id":11,"text":"天使投资人"},
+    {"id":12,"text":"VIP客户"},
+    {"id":13,"text":"教育专家"},
+    {"id":14,"text":"商业精英"}
+  ],
+  "wx_default_title":"保利首届生活方式展定制邀请",
+  "wx_title":"已收到来自保利首届生活方式展的邀请",
+  "wx_friend_desx":" ",
+  "wx_default_friend_desx":" ",
+  "wx_share":"点击右上角  邀请朋友一起来玩",
+  "wx_share_img":"resource/assets/shareIcon.jpg"
+}

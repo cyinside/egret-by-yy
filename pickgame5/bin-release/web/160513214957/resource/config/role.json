@@ -1,0 +1,16 @@
+﻿{
+"mc": {
+	"role": {
+		"frameRate":24,
+		"labels": [
+			{"name":"walk","frame":1}
+		],
+		"frames": [
+			{"res":"role0000","x":0,"y":0}
+		]
+	}
+},
+"res": {
+	"role0000":{"x":0,"y":0,"w":116,"h":149}
+}
+}

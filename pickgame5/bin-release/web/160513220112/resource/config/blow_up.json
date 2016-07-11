@@ -1,0 +1,22 @@
+﻿{
+"mc": {
+	"blow_up": {
+		"frameRate":24,
+		"labels": [
+			{"name":"blow_up","frame":1}
+		],
+		"frames": [
+			{"res":"blow_up0000","x":0,"y":0,"duration":4},
+			{"res":"blow_up0004","x":0,"y":0,"duration":4},
+			{"res":"blow_up0008","x":0,"y":0,"duration":4},
+			{"res":"blow_up0012","x":0,"y":0,"duration":4}
+		]
+	}
+},
+"res": {
+	"blow_up0000":{"x":0,"y":0,"w":144,"h":131},
+	"blow_up0004":{"x":144,"y":0,"w":144,"h":131},
+	"blow_up0008":{"x":288,"y":0,"w":144,"h":131},
+	"blow_up0012":{"x":0,"y":131,"w":144,"h":131}
+	}
+}

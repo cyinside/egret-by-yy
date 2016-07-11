@@ -1,0 +1,1 @@
+{"version":3,"file":"ScoreEvent.js","sourceRoot":"","sources":["../../src/event/ScoreEvent.ts"],"names":[],"mappings":"AAAA;IAAyB,8BAAW;IAApC;QAAyB,8BAAW;IAMpC,CAAC;;IALiB,oBAAS,GAAU,WAAW,CAAC;IAC/B,oBAAS,GAAU,WAAW,CAAC;IAC/B,uBAAY,GAAU,cAAc,CAAC;IACrC,mBAAQ,GAAU,UAAU,CAAC;IAC7B,oBAAS,GAAU,WAAW,CAAC;IACjD,iBAAC;AAAD,CAAC,AAND,CAAyB,KAAK,CAAC,KAAK,GAMnC;oBANK,UAAU;AAMf"}

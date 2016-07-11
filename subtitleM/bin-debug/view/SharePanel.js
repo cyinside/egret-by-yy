@@ -1,0 +1,34 @@
+var __extends = this.__extends || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    __.prototype = b.prototype;
+    d.prototype = new __();
+};
+var __define = this.__define || function (o, p, g, s) {   Object.defineProperty(o, p, { configurable:true, enumerable:true, get:g,set:s }) };
+var SharePanel = (function (_super) {
+    __extends(SharePanel, _super);
+    function SharePanel() {
+        _super.call(this);
+    }
+    var d = __define,c=SharePanel;p=c.prototype;
+    // 初始化面板
+    p.initPanel = function () {
+        this.bg = new egret.Bitmap();
+        this.bg.texture = this.assets.getTexture("bg");
+        this.addChild(this.bg);
+        this.bg.touchEnabled = true;
+        this.startBtn = new egret.Bitmap();
+        this.startBtn.texture = this.assets.getTexture("startBtn");
+        this.startBtn.x = this.w / 2 - this.startBtn.width / 2;
+        this.startBtn.y = this.h / 2 - this.startBtn.height / 2;
+        this.addChild(this.startBtn);
+        this.startBtn.touchEnabled = true;
+        this.startBtn.addEventListener(egret.TouchEvent.TOUCH_TAP, this.onStartBtnTouchTap, this);
+    };
+    p.onStartBtnTouchTap = function (e) {
+        Global.dispatchEvent(MainNotify.openGamePanelNotify, null, false);
+        Global.dispatchEvent(MainNotify.closeStartPanelNotify, null, false);
+    };
+    return SharePanel;
+})(BasePanel);
+egret.registerClass(SharePanel,"SharePanel");

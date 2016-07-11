@@ -1,0 +1,75 @@
+{
+	"resources": [
+		{
+			"name": "boom",
+			"type": "image",
+			"url": "assets/boom.png"
+		},
+		{
+			"name": "Bboom",
+			"type": "image",
+			"url": "assets/boom-big.png"
+		},
+		{
+			"name": "planet",
+			"type": "image",
+			"url": "assets/dq-h.png"
+		},
+		{
+			"name": "poster",
+			"type": "image",
+			"url": "assets/poster.png"
+		},
+		{
+			"name": "star",
+			"type": "image",
+			"url": "assets/star.png"
+		},
+		{
+			"name": "ets0",
+			"type": "image",
+			"url": "assets/ets/0.png"
+		},
+		{
+			"name": "ets1",
+			"type": "image",
+			"url": "assets/ets/1.png"
+		},
+		{
+			"name": "ets2",
+			"type": "image",
+			"url": "assets/ets/2.png"
+		},
+		{
+			"name": "ets3",
+			"type": "image",
+			"url": "assets/ets/3.png"
+		},
+		{
+			"name": "ets4",
+			"type": "image",
+			"url": "assets/ets/4.png"
+		},
+		{
+			"name": "ets6",
+			"type": "image",
+			"url": "assets/ets/6.png"
+		},
+		{
+			"name": "ets5",
+			"type": "image",
+			"url": "assets/ets/5.png"
+		},
+		{
+			"name": "description",
+			"type": "json",
+			"url": "config/description.json"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "boom,Bboom,planet,poster,stare,ets0,ets1,ets2,ets3,ets4,ets5,ets6"
+		}
+	]
+}

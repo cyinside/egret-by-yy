@@ -1,0 +1,26 @@
+{
+  "role":[
+    {"id":1,"name":"goodmouse","type":1},
+    {"id":2,"name":"badmouse","type":2}
+  ],
+
+  "hole":[
+    {"id":0,"x":115,"y1":520,"y2":490},
+    {"id":1,"x":325,"y1":520,"y2":490},
+    {"id":2,"x":525,"y1":520,"y2":490},
+    {"id":3,"x":115,"y1":680,"y2":650},
+    {"id":4,"x":320,"y1":680,"y2":650},
+    {"id":5,"x":535,"y1":680,"y2":650},
+    {"id":6,"x":115,"y1":840,"y2":810},
+    {"id":7,"x":320,"y1":840,"y2":810},
+    {"id":8,"x":525,"y1":840,"y2":810}
+  ],
+
+  "wx_default_title":"打地鼠，赢Kindle",
+  "wx_title":"打地鼠，赢Kindle",
+  "wx_friend_desx":"抓住疯狂的地鼠，送你一大波Kindle！",
+  "wx_default_friend_desx":"你离Kindle只有一锤子的距离！",
+  "wx_share":"点击右上角  邀请朋友一起来玩",
+  "wx_share_img":"resource/assets/shareIcon.jpg"
+
+}

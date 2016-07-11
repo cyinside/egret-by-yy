@@ -1,0 +1,25 @@
+{
+	"resources": [
+		{
+			"name": "bg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "likeBut",
+			"type": "image",
+			"url": "assets/likeBut.png"
+		},
+		{
+			"name": "description",
+			"type": "json",
+			"url": "config/description.json"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "bg,likeBut"
+		}
+	]
+}

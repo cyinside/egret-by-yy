@@ -1,0 +1,154 @@
+{
+	"resources": [
+		{
+			"name": "bg",
+			"type": "image",
+			"url": "assets/bg1.jpg"
+		},
+		{
+			"name": "bg0",
+			"type": "image",
+			"url": "assets/bg00.jpg"
+		},
+		{
+			"name": "goodmouse",
+			"type": "image",
+			"url": "assets/goodmouse1.png"
+		},
+		{
+			"name": "badmouse",
+			"type": "image",
+			"url": "assets/badmouse1.png"
+		},
+		{
+			"name": "startBut",
+			"type": "image",
+			"url": "assets/startBut.png"
+		},
+		{
+			"name": "windowBg",
+			"type": "image",
+			"url": "assets/windowBg.png"
+		},
+		{
+			"name": "ruletxt",
+			"type": "image",
+			"url": "assets/ruletxt.png"
+		},
+		{
+			"name": "failtxt",
+			"type": "image",
+			"url": "assets/failtxt.png"
+		},
+		{
+			"name": "successtxt",
+			"type": "image",
+			"url": "assets/successtxt.png"
+		},
+		{
+			"name": "retryBut",
+			"type": "image",
+			"url": "assets/retryBut.png"
+		},
+		{
+			"name": "okBut",
+			"type": "image",
+			"url": "assets/okBut.png"
+		},
+		{
+			"name": "getprizeBut",
+			"type": "image",
+			"url": "assets/getprizeBut.png"
+		},
+	  {
+		"name": "prizebg",
+		"type": "image",
+		"url": "assets/p8/bg.jpg"
+	  },
+	  {
+		"name": "noprize",
+		"type": "image",
+		"url": "assets/p8/noprize.png"
+	  },
+	  {
+		"name": "isprize",
+		"type": "image",
+		"url": "assets/p8/isprize.png?1"
+	  },
+	  {
+		"name": "circle1",
+		"type": "image",
+		"url": "assets/p8/circle1.png"
+	  },
+	  {
+		"name": "circle2",
+		"type": "image",
+		"url": "assets/p8/circle2.png"
+	  },
+	  {
+		"name": "pstartBut",
+		"type": "image",
+		"url": "assets/p8/startBut.png"
+	  },
+	  {
+		"name": "formBut",
+		"type": "image",
+		"url": "assets/p8/formBut.png"
+	  },
+	  {
+		"name": "inputBut",
+		"type": "image",
+		"url": "assets/p8/inputBut.png"
+	  },
+	  {
+		"name": "formPage",
+		"type": "image",
+		"url": "assets/p8/formpage.png"
+	  },
+	  {
+		"name": "remove",
+		"type": "image",
+		"url": "assets/p8/remove.png"
+	  },
+	  {
+		"name": "loadingtxt",
+		"type": "image",
+		"url": "assets/loadingtxt.png"
+	  },
+	  {
+		"name": "mouse",
+		"type": "image",
+		"url": "assets/mouse.png"
+	  },
+	  {
+		"name": "loadingBg",
+		"type": "image",
+		"url": "assets/loadingBg.jpg"
+	  },
+	  {
+		"name": "boom",
+		"type": "image",
+		"url": "assets/boom.png"
+	  },
+	  {
+			"name": "description",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "config1",
+			"type": "json",
+			"url": "config/config1.json"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "config1,bg,bg0,goodmouse,badmouse,startBut,windowBg,ruletxt,okBut,failtxt,retryBut,successtxt,getprizeBut,prizebg,isprize,noprize,circle1,circle2,pstartBut,config,formBut,formPage,inputBut,boom"
+		},
+	  {
+		"name": "load",
+		"keys":"loadingtxt,mouse,loadingBg"
+	  }
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"resources": [
+		{
+			"name": "prizebg",
+			"type": "image",
+			"url": "assets/getPrize/bg.jpg"
+		},
+		{
+			"name": "noprize",
+			"type": "image",
+			"url": "assets/getPrize/noprize.png"
+		},
+		{
+			"name": "isprize",
+			"type": "image",
+			"url": "assets/getPrize/isprize.jpg?1"
+		},
+		{
+			"name": "circle1",
+			"type": "image",
+			"url": "assets/getPrize/circle1.png"
+		},
+		{
+			"name": "circle2",
+			"type": "image",
+			"url": "assets/getPrize/circle.png"
+		},
+		{
+			"name": "startBut",
+			"type": "image",
+			"url": "assets/getPrize/startBut.png"
+		},
+		{
+			"name": "remove",
+			"type": "image",
+			"url": "assets/getPrize/remove.png"
+		},
+	  {
+			"name": "description",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "config",
+			"type": "json",
+			"url": "config/config.json"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "bg1,prizebg,isprize,noprize,circle1,circle2,startBut,config,remove"
+		}
+	]
+}

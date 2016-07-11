@@ -1,0 +1,190 @@
+{
+	"resources": [
+		{
+			"name": "pa10",
+			"type": "image",
+			"url": "assets/pa10.png"
+		},
+		{
+			"name": "bg0",
+			"type": "image",
+			"url": "assets/page1/bg0.jpg"
+		},
+		{
+			"name": "rulepage",
+			"type": "image",
+			"url": "assets/page1/Rulepage.png"
+		},
+		{
+			"name": "startBut1",
+			"type": "image",
+			"url": "assets/page1/startBut1.png"
+		},
+		{
+			"name": "bg1",
+			"type": "image",
+			"url": "assets/game/bg1.jpg"
+		},
+		{
+			"name": "bg2",
+			"type": "image",
+			"url": "assets/prizeresult/bg2.jpg"
+		},
+		{
+			"name": "film",
+			"type": "image",
+			"url": "assets/prizeresult/film.png?1"
+		},
+		{
+			"name": "bigprize",
+			"type": "image",
+			"url": "assets/prizeresult/bigprize.png"
+		},
+		{
+			"name": "pa11",
+			"type": "image",
+			"url": "assets/pa11.png"
+		},
+		{
+			"name": "pa12",
+			"type": "image",
+			"url": "assets/pa12.png"
+		},
+		{
+			"name": "p1",
+			"type": "image",
+			"url": "assets/game/p1.png"
+		},
+		{
+			"name": "p2",
+			"type": "image",
+			"url": "assets/game/p2.png"
+		},
+		{
+			"name": "p3",
+			"type": "image",
+			"url": "assets/game/p3.png"
+		},
+		{
+			"name": "p4",
+			"type": "image",
+			"url": "assets/game/p4.png"
+		},
+		{
+			"name": "p5",
+			"type": "image",
+			"url": "assets/game/p5.png"
+		},
+		{
+			"name": "p6",
+			"type": "image",
+			"url": "assets/game/p6.png"
+		},
+		{
+			"name": "p7",
+			"type": "image",
+			"url": "assets/game/p7.png"
+		},
+		{
+			"name": "p8",
+			"type": "image",
+			"url": "assets/game/p8.png"
+		},
+		{
+			"name": "p9",
+			"type": "image",
+			"url": "assets/game/p9.png"
+		},
+		{
+			"name": "p10",
+			"type": "image",
+			"url": "assets/game/p10.png"
+		},
+		{
+			"name": "p11",
+			"type": "image",
+			"url": "assets/game/p11.png"
+		},
+		{
+			"name": "result1",
+			"type": "image",
+			"url": "assets/game/result1.png"
+		},
+		{
+			"name": "resetBut",
+			"type": "image",
+			"url": "assets/game/resetBut.png"
+		},
+		{
+			"name": "retryBut",
+			"type": "image",
+			"url": "assets/game/retryBut.png"
+		},
+		{
+			"name": "retryBut1",
+			"type": "image",
+			"url": "assets/game/retryBut1.png"
+		},
+		{
+			"name": "remove",
+			"type": "image",
+			"url": "assets/remove.png"
+		},
+		{
+			"name": "startBut",
+			"type": "image",
+			"url": "assets/page1/startBut.png"
+		},
+		{
+			"name": "clock",
+			"type": "image",
+			"url": "assets/clock.png"
+		},
+		{
+			"name": "k",
+			"type": "image",
+			"url": "assets/prizeresult/kindle/k1.png"
+		},
+		{
+			"name": "i",
+			"type": "image",
+			"url": "assets/prizeresult/kindle/i1.png"
+		},
+		{
+			"name": "n",
+			"type": "image",
+			"url": "assets/prizeresult/kindle/n1.png"
+		},
+		{
+			"name": "d",
+			"type": "image",
+			"url": "assets/prizeresult/kindle/d1.png"
+		},
+		{
+			"name": "l",
+			"type": "image",
+			"url": "assets/prizeresult/kindle/l1.png"
+		},
+		{
+			"name": "e",
+			"type": "image",
+			"url": "assets/prizeresult/kindle/e1.png"
+		},
+		{
+			"name": "description",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "config",
+			"type": "json",
+			"url": "config/config.json"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "pa11,pa12,pa10,p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11,resetBut,config,bg0,bg1,bg2,result1,startBut,remove,clock,retryBut,retryBut1,film,bigprize,startBut1,rulepage,k,i,n,d,l,e"
+		}
+	]
+}

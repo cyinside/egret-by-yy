@@ -1,0 +1,35 @@
+{
+	"resources": [
+		{
+			"name": "bg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "likeBut",
+			"type": "image",
+			"url": "assets/likeBut.png"
+		},
+		{
+			"name": "mask",
+			"type": "image",
+			"url": "assets/mask.png"
+		},
+		{
+			"name": "description",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "config",
+			"type": "json",
+			"url": "config/config1.json"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "bg,likeBut,mask,config,description"
+		}
+	]
+}

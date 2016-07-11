@@ -1,0 +1,24 @@
+{
+    "result":[
+        {"id":1,"text":"宜存在。"},
+        {"id":2,"text":"忌完美。"},
+        {"id":3,"text":"宜爱慕。"},
+        {"id":4,"text":"忌伪装。"},
+        {"id":5,"text":"宜珍惜。"},
+        {"id":6,"text":"宜坚韧。"},
+        {"id":7,"text":"忌虚情假意。"},
+        {"id":8,"text":"宜回味。"},
+        {"id":9,"text":"宜伪装。"},
+        {"id":10,"text":"宜归家。"}
+    ],
+
+    "wx_title":"今天",
+    "wx_default_title":" ",
+    "wx_friend_desx":"我生活在妙不可言的等待中，等待随便哪种未来。",
+    "wx_share_friend":"点击右上角=>发送给朋友",
+    "wx_share_monent":"点击右上角=>分享到朋友圈",
+    "wx_share_img":"resource/assets/share.jpg",
+    "txt1":"\n\n⎴\n",
+    "txt2":"\n⎵\n\n"
+
+}

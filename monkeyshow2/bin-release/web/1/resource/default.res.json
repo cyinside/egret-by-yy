@@ -1,0 +1,95 @@
+{
+	"resources": [
+		{
+			"name": "bg1",
+			"type": "image",
+			"url": "assets/p1/bg1.jpg"
+		},
+		{
+			"name": "bg2",
+			"type": "image",
+			"url": "assets/p1/bg2.jpg"
+		},
+		{
+			"name": "bg3",
+			"type": "image",
+			"url": "assets/p2/bg3.jpg"
+		},
+		{
+			"name": "back",
+			"type": "image",
+			"url": "assets/p2/back.png"
+		},
+		{
+			"name": "b1",
+			"type": "image",
+			"url": "assets/p1/bitmap1.png"
+		},
+		{
+			"name": "b2",
+			"type": "image",
+			"url": "assets/p1/bitmap2.png"
+		},
+		{
+			"name": "jz",
+			"type": "image",
+			"url": "assets/p1/jz.png"
+		},
+		{
+			"name": "jz1",
+			"type": "image",
+			"url": "assets/p1/jz1.png"
+		},
+		{
+			"name": "jzdown",
+			"type": "image",
+			"url": "assets/p1/jzdown.png"
+		},
+		{
+			"name": "jzup",
+			"type": "image",
+			"url": "assets/p1/jzup.png"
+		},
+		{
+			"name": "hand",
+			"type": "image",
+			"url": "assets/p1/hand.png"
+		},
+		{
+			"name": "hand1",
+			"type": "image",
+			"url": "assets/p1/hand1.png"
+		},
+		{
+			"name": "hand2",
+			"type": "image",
+			"url": "assets/p1/hand2.png"
+		},
+		{
+			"name": "musicon",
+			"type": "image",
+			"url": "assets/music1.png"
+		},
+		{
+			"name": "musicoff",
+			"type": "image",
+			"url": "assets/music2.png"
+		},
+		{
+			"name": "description",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "config",
+			"type": "json",
+			"url": "config/config.json"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "bg1,bg2,bg3,b1,b2,jz,jz1,jzup,jzdown,egretIcon,hand,hand1,hand2,config,musicon,musicoff,back"
+		}
+	]
+}
