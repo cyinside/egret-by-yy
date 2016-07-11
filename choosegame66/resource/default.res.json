@@ -1,0 +1,175 @@
+{
+  "resources": [
+	{
+	  "name": "bg1",
+	  "type": "image",
+	  "url": "assets/p1_bg.jpg"
+	},
+	{
+	  "name": "bg4",
+	  "type": "image",
+	  "url": "assets/bg4.jpg"
+	},
+	{
+	  "name": "bg5",
+	  "type": "image",
+	  "url": "assets/bg5.jpg"
+	},
+	{
+	  "name": "bg3",
+	  "type": "image",
+	  "url": "assets/bg3.jpg"
+	},
+	{
+	  "name": "btn11",
+	  "type": "image",
+	  "url": "assets/11.png"
+	},
+	{
+	  "name": "btn12",
+	  "type": "image",
+	  "url": "assets/12.png"
+	},
+	{
+	  "name": "btn13",
+	  "type": "image",
+	  "url": "assets/13.png"
+	},
+	{
+	  "name": "btn14",
+	  "type": "image",
+	  "url": "assets/14.png"
+	},
+	{
+	  "name": "btn21",
+	  "type": "image",
+	  "url": "assets/21.png"
+	},
+	{
+	  "name": "btn22",
+	  "type": "image",
+	  "url": "assets/22.png"
+	},
+	{
+	  "name": "btn23",
+	  "type": "image",
+	  "url": "assets/23.png"
+	},
+	{
+	  "name": "btn24",
+	  "type": "image",
+	  "url": "assets/24.png"
+	},
+	{
+	  "name": "btn31",
+	  "type": "image",
+	  "url": "assets/31.png"
+	},
+	{
+	  "name": "btn32",
+	  "type": "image",
+	  "url": "assets/32.png"
+	},
+	{
+	  "name": "btn33",
+	  "type": "image",
+	  "url": "assets/33.png"
+	},
+	{
+	  "name": "btn34",
+	  "type": "image",
+	  "url": "assets/34.png"
+	},
+	{
+	  "name": "btn41",
+	  "type": "image",
+	  "url": "assets/41.png"
+	},
+	{
+	  "name": "btn42",
+	  "type": "image",
+	  "url": "assets/42.png"
+	},
+	{
+	  "name": "btn43",
+	  "type": "image",
+	  "url": "assets/43.png"
+	},
+	{
+	  "name": "btn44",
+	  "type": "image",
+	  "url": "assets/44.png"
+	},
+	{
+	  "name": "btn51",
+	  "type": "image",
+	  "url": "assets/51.png"
+	},
+	{
+	  "name": "btn52",
+	  "type": "image",
+	  "url": "assets/52.png"
+	},
+	{
+	  "name": "btn53",
+	  "type": "image",
+	  "url": "assets/53.png"
+	},
+	{
+	  "name": "btn54",
+	  "type": "image",
+	  "url": "assets/54.png"
+	},
+	{
+	  "name": "startBtn",
+	  "type": "image",
+	  "url": "assets/startBtn.png"
+	},
+	{
+	  "name": "clickBtn",
+	  "type": "image",
+	  "url": "assets/clickbtn.png"
+	},
+	{
+	  "name": "close",
+	  "type": "image",
+	  "url": "assets/close.png"
+	},
+	{
+	  "name": "pic_1",
+	  "type": "image",
+	  "url": "assets/pic/bg1.jpg"
+	},
+	{
+	  "name": "pic_2",
+	  "type": "image",
+	  "url": "assets/pic/bg2.jpg"
+	},
+	{
+	  "name": "pic_3",
+	  "type": "image",
+	  "url": "assets/pic/bg3.jpg"
+	},
+	{
+	  "name": "pic_4",
+	  "type": "image",
+	  "url": "assets/pic/bg4.jpg"
+	},
+	{
+	  "name": "pic_5",
+	  "type": "image",
+	  "url": "assets/pic/bg5.jpg"
+	},
+	{
+	  "name": "config",
+	  "type": "json",
+	  "url": "config/config.json"
+	}
+  ],
+  "groups": [
+	{
+	  "name": "preload",
+	  "keys": "bg1,bg3,config,pic_1,pic_2,pic_3,pic_4,pic_5,btn11,btn12,btn13,btn14,btn21,btn22,btn23,btn24,btn31,btn32,btn33,btn34,btn41,btn42,btn43,btn44,btn51,btn52,btn53,btn54,clickBtn,bg4,bg5,startBtn,close"
+	}
+  ]
+}
