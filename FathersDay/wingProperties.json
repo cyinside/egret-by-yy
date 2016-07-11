@@ -1,0 +1,27 @@
+{
+	"close":false,
+	"natures":["egretProject"],
+	"projectType":"egret",
+	"resourcePlugin":{
+		"configs":[{
+				"configPath":"resource/default.res.json",
+				"relativePath":"resource/"
+			}],
+		"id":"org.egret-labs.resource",
+		"library":{
+			"children":[
+				{
+					"isFolder":false,
+					"key":"bg1",
+					"name":"bg1"
+				},
+				{
+					"isFolder":false,
+					"key":"egretIcon",
+					"name":"egretIcon"
+				}
+			]
+		}
+	},
+	"theme":"resource/theme.thm"
+}

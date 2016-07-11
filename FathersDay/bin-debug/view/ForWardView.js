@@ -1,0 +1,19 @@
+/**
+ * Created by Administrator on 2016/6/17.
+ */
+var ForWardView = (function (_super) {
+    __extends(ForWardView, _super);
+    function ForWardView() {
+        _super.call(this);
+        this.createScnen();
+    }
+    var d = __define,c=ForWardView,p=c.prototype;
+    p.createScnen = function () {
+        this.forWard = new BitmapDisplay("forward");
+        this.addChild(this.forWard);
+        egret.Tween.get(this.forWard, { loop: true }).to({ y: -15 }, 800, egret.Ease.cubicInOut).to({ y: 0 }, 800, egret.Ease.cubicInOut);
+    };
+    return ForWardView;
+}(DisplayScene));
+egret.registerClass(ForWardView,'ForWardView');
+//# sourceMappingURL=ForWardView.js.map
