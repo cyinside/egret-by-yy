@@ -1,0 +1,175 @@
+{
+	"resources": [
+		{
+			"name": "bg1",
+			"type": "image",
+			"url": "assets/scene1/bg1.jpg"
+		},
+		{
+			"name": "bg2",
+			"type": "image",
+			"url": "assets/scene2/bg2.jpg"
+		},
+		{
+			"name": "bg3",
+			"type": "image",
+			"url": "assets/scene3/bg3.jpg"
+		},
+		{
+			"name": "bg0",
+			"type": "image",
+			"url": "assets/loading/bg0.jpg"
+		},
+		{
+			"name": "tit",
+			"type": "image",
+			"url": "assets/loading/tit.png"
+		},
+		{
+			"name": "txt01",
+			"type": "image",
+			"url": "assets/loading/txt01.png"
+		},
+		{
+			"name": "txt02",
+			"type": "image",
+			"url": "assets/loading/txt02.png"
+		},
+		{
+			"name": "btn1",
+			"type": "image",
+			"url": "assets/scene1/btn2.png"
+		},
+		{
+			"name": "btn2",
+			"type": "image",
+			"url": "assets/scene1/btn1.png"
+		},
+		{
+			"name": "begininfo",
+			"type": "image",
+			"url": "assets/scene1/begininfo.png"
+		},
+		{
+			"name": "erorinfo",
+			"type": "image",
+			"url": "assets/scene1/erorinfo.png"
+		},
+		{
+			"name": "luckyinfo",
+			"type": "image",
+			"url": "assets/scene1/luckyinfo.png"
+		},
+		{
+			"name": "snow1",
+			"type": "image",
+			"url": "assets/scene2/snow1.png"
+		},
+		{
+			"name": "snow2",
+			"type": "image",
+			"url": "assets/scene2/snow2.png"
+		},
+		{
+			"name": "star",
+			"type": "image",
+			"url": "assets/scene2/star.png"
+		},
+		{
+			"name": "startxt",
+			"type": "image",
+			"url": "assets/scene2/startxt.png"
+		},
+		{
+			"name": "musicon",
+			"type": "image",
+			"url": "assets/musicon.png"
+		},
+		{
+			"name": "musicoff",
+			"type": "image",
+			"url": "assets/musicoff.png"
+		},
+		{
+			"name": "txt3",
+			"type": "image",
+			"url": "assets/scene2/txt3.png"
+		},
+		{
+			"name": "infobut",
+			"type": "image",
+			"url": "assets/scene2/infobut.png"
+		},
+		{
+			"name": "infoimg",
+			"type": "image",
+			"url": "assets/scene2/infoimg.png"
+		},
+		{
+			"name": "bg10",
+			"type": "image",
+			"url": "assets/scene1/bg10.jpg"
+		},
+		{
+			"name": "bg11",
+			"type": "image",
+			"url": "assets/scene1/bg11.jpg"
+		},
+		{
+			"name": "bg12",
+			"type": "image",
+			"url": "assets/scene1/bg12.jpg"
+		},
+		{
+			"name": "p1",
+			"type": "image",
+			"url": "assets/scene3/p1.png"
+		},
+		{
+			"name": "p2",
+			"type": "image",
+			"url": "assets/scene3/p2.png"
+		},
+		{
+			"name": "retrybut",
+			"type": "image",
+			"url": "assets/scene3/retrybut.png"
+		},
+		{
+			"name": "sharebut",
+			"type": "image",
+			"url": "assets/scene3/sharebut.png"
+		},
+		{
+			"name": "p3",
+			"type": "image",
+			"url": "assets/scene3/p3.png"
+		},
+		{
+			"name": "scoreimg",
+			"type": "image",
+			"url": "assets/scene1/scoreimg.png"
+		},
+		{
+			"name": "timeimg",
+			"type": "image",
+			"url": "assets/scene1/timeimg.png"
+		},
+		{
+			"name": "description",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "config",
+			"type": "json",
+			"url": "config/config.json"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "config,bg1,bg0,bg2,bg3,txt01,txt02,tit,btn1,btn2,bg10,bg11,bg12,luckyinfo,erorinfo,begininfo,snow1,snow2,star,startxt,txt3,p1,p2,p3,infobut,infoimg,musicon,musicoff,scoreimg,timeimg,sharebut,retrybut"
+		}
+	]
+}
