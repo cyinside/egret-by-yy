@@ -1,0 +1,135 @@
+{
+	"resources": [
+		{
+			"name": "p1",
+			"type": "image",
+			"url": "assets/p1.jpg"
+		},
+		{
+			"name": "p2",
+			"type": "image",
+			"url": "assets/p2.jpg"
+		},
+		{
+			"name": "p3",
+			"type": "image",
+			"url": "assets/p3.jpg"
+		},
+		{
+			"name": "p4",
+			"type": "image",
+			"url": "assets/p4/bg.jpg"
+		},
+		{
+			"name": "okBut",
+			"type": "image",
+			"url": "assets/p4/okBut.png"
+		},
+	  {
+		"name": "p5",
+		"type": "image",
+		"url": "assets/p5.jpg"
+	  },
+	  {
+		"name": "p6",
+		"type": "image",
+		"url": "assets/p6.jpg"
+	  },
+	  {
+		"name": "p7",
+		"type": "image",
+		"url": "assets/p7.jpg"
+	  },
+	  {
+		"name": "1",
+		"type": "image",
+		"url": "assets/p4/1.png"
+	  },
+	  {
+		"name": "2",
+		"type": "image",
+		"url": "assets/p4/2.png"
+	  },
+	  {
+		"name": "3",
+		"type": "image",
+		"url": "assets/p4/3.png"
+	  },
+	  {
+		"name": "4",
+		"type": "image",
+		"url": "assets/p4/4.png"
+	  },
+	  {
+		"name": "5",
+		"type": "image",
+		"url": "assets/p4/5.png"
+	  },
+	  {
+		"name": "6",
+		"type": "image",
+		"url": "assets/p4/6.png"
+	  },
+	  {
+		"name": "7",
+		"type": "image",
+		"url": "assets/p4/7.png"
+	  },
+	  {
+		"name": "8",
+		"type": "image",
+		"url": "assets/p4/8.png"
+	  },
+	  {
+		"name": "9",
+		"type": "image",
+		"url": "assets/p4/9.png"
+	  },
+	  {
+		"name": "10",
+		"type": "image",
+		"url": "assets/p4/10.png"
+	  },
+	  {
+		"name": "forward",
+		"type": "image",
+		"url": "assets/forward.png"
+	  },
+	  {
+		"name": "loadingBg",
+		"type": "image",
+		"url": "assets/loading/loading.jpg"
+	  },
+	  {
+		"name": "bit1",
+		"type": "image",
+		"url": "assets/loading/1.png"
+	  },
+	  {
+		"name": "bit2",
+		"type": "image",
+		"url": "assets/loading/2.png"
+	  },
+	  {
+			"name": "description",
+			"type": "json",
+			"url": "config/description.json"
+		},
+	  {
+			"name": "config",
+			"type": "json",
+			"url": "config/config.json"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "p1,p2,p3,p4,p5,p6,p7,okBut,1,2,3,4,5,6,7,8,9,10,forward,config"
+		},
+	  {
+		"name": "load",
+		"keys":"loadingBg,bit1,bit2"
+	  }
+
+	]
+}
